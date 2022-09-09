@@ -1,6 +1,7 @@
 ###  Anatomy 2022
 Study Guides
-- [Digestive System Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf)
+- [Digestive System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf)
+- [SciOLY Anatomy/Digestive System 2018 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Digestive_System)
 - [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
 
 Study Videos
