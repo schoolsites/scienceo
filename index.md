@@ -1,6 +1,9 @@
 
 
-## Science Olympiad 2022
+### Science Olympiad 2022
+
+You can use the [editor on GitHub](https://github.com/tawnyowlet/nest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ 
 
 Study Guides
 - [Digestive System Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf)
@@ -13,4 +16,21 @@ Study Videos
 Practice Tests
 - [Test Exchange](https://scioly.org/wiki/index.php/2018_)
 - [Test Exchange Archive](https://scioly.org/wiki/index.php/Test_Exchange_Archive#Past_Years_.282015_and_before.29)
+
+
+
+
+[Connecting to a page within the repository](http://jmcglone.com/guides/github-pages/)
+
+
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tawnyowlet/nest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
