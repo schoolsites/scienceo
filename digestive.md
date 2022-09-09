@@ -9,5 +9,5 @@ Study Videos
 - [Chapter 24 Digestive System from Anatomy GMC- Making Anatomy and Physiology Easy](https://youtu.be/fW1KTOk334s)
 
 Practice Tests
--[Test Exchange](https://scioly.org/wiki/index.php/2018_)
--[Test Exchange Archive](https://scioly.org/wiki/index.php/Test_Exchange_Archive#Past_Years_.282015_and_before.29)
+- [Test Exchange](https://scioly.org/wiki/index.php/2018_)
+- [Test Exchange Archive](https://scioly.org/wiki/index.php/Test_Exchange_Archive#Past_Years_.282015_and_before.29)
