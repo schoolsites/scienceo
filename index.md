@@ -4,8 +4,8 @@ Study Guides
 - [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
 
 Study Videos
-- Anatomy and Physiology: Digestive System [Youtube Video from Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
-- Chapter 24 Digestive System from [Anatomy GMC- Making Anatomy and Physiology Easy](https://youtu.be/fW1KTOk334s)
+- Anatomy and Physiology. Digestive System [Youtube Video from Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
+- Ch. 24 Digestive System. [YouTube video from Anatomy GMC- Making Anatomy & Physiology Easy](https://youtu.be/fW1KTOk334s)
 
 Practice Tests
 - [Test Exchange](https://scioly.org/wiki/index.php/2018_)
