@@ -11,8 +11,8 @@ Practice Tests
 - [Test Exchange](https://scioly.org/wiki/index.php/2018_)
 - [Test Exchange Archive](https://scioly.org/wiki/index.php/Test_Exchange_Archive#Past_Years_.282015_and_before.29)
 
-Description of Anatomy 50 minute competition
-- [Must Know References for Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)
+Scioly.org overview for Anatomy & Physiology 50 minute event
+- Scrolll down to learn "[Must Know Labels to describe Orienting Body Part Location]"(https://scioly.org/wiki/index.php/Anatomy_and_Physiology)
 
 
  
