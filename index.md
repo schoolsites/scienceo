@@ -13,7 +13,7 @@ Practice Tests
 - [Test Exchange Archive](https://scioly.org/wiki/index.php/Test_Exchange_Archive#Past_Years_.282015_and_before.29)
 
 Scioly.org overview for Anatomy & Physiology 50 minute event
-- Scroll down to learn "[Must Know Labels to describe Orienting Body Part Location]"(https://scioly.org/wiki/index.php/Anatomy_and_Physiology)
+- Scroll down to learn "[Must Know Labels to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
 
  
