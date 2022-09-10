@@ -1,4 +1,6 @@
 ###  Anatomy 2022
+
+## Digestive System
 Study Guides
 - [Digestive System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf) *memorize
 - Digestive System 2023 Handout
@@ -16,11 +18,11 @@ Practice Tests
 Scioly.org overview for Anatomy & Physiology 50 minute event
 - Scroll down to learn "[Must Know Labels to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
-Respiratory
+## Respiratory
 - [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
 - Respiratory System 2023 Handout
 
-Immunology
+## Immunology
 - Immunology System 2018 Handout
 - Immunology System 2023 Handout
 - [SciOLY Immunology 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Immune_System)
