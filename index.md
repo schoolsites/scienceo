@@ -6,7 +6,7 @@ Study Guides
 - Digestive System 2023 Handout
 - [SciOLY Anatomy/Digestive System 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Digestive_System) *must read
 - [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
-
+- [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List)
 Study Videos
 - Anatomy and Physiology. Digestive System [Youtube Video from Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
 - Ch. 24 Digestive System. [YouTube video from Anatomy GMC- Making Anatomy & Physiology Easy](https://youtu.be/fW1KTOk334s)
