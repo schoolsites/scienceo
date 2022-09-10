@@ -9,8 +9,8 @@ Study Videos
 - Ch. 24 Digestive System. [YouTube video from Anatomy GMC- Making Anatomy & Physiology Easy](https://youtu.be/fW1KTOk334s)
 
 Practice Tests
-- [Test Exchange](https://scioly.org/wiki/index.php/2018_)
-- [Test Exchange Archive](https://scioly.org/wiki/index.php/Test_Exchange_Archive#Past_Years_.282015_and_before.29)
+- [Test Exchange](https://scioly.org/tests/). For years 2022-2017
+- [Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange). Scroll down to 2018 Digestive
 
 Scioly.org overview for Anatomy & Physiology 50 minute event
 - Scroll down to learn "[Must Know Labels to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
