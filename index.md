@@ -30,7 +30,7 @@ Scioly.org overview for Anatomy & Physiology 50 minute event
 
 ## General
 - [Science Olympiad](https://www.soinc.org): link to state websites, general rules, FAQ
-- Nevada Science Olympiad - YouTube [High School Division Awards](https://youtu.be/ebq0a__sUOk)March 2022 
+- Nevada Science Olympiad - YouTube [High School Division Awards](https://youtu.be/ebq0a__sUOk), March 2022 
 
  
 
