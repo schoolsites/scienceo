@@ -28,6 +28,10 @@ Scioly.org overview for Anatomy & Physiology 50 minute event
 - Immunology System 2023 Handout
 - [SciOLY Immunology 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Immune_System)
 
+## General
+- [Science Olympiad](https://www.soinc.org): link to state websites, general rules, FAQ
+- Nevada Science Olympiad - YouTube [High School Division Awards](https://youtu.be/ebq0a__sUOk)March 2022 
+
  
 
 
