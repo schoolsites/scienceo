@@ -15,7 +15,7 @@
 - [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
 
 #### Practice Tests: Digestive System was done in years 2023, 2018, 2013, and 2012
-- [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange) 
+- [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)-
   <i>scroll to "User Submitted Sets" and "Division C" for links to old tests </i>
     - [x] DONE: Columbia, Troy
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
