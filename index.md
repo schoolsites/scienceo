@@ -10,7 +10,7 @@ Study Guides
 
 Study Videos
 - [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14
-- [Crash Course](https://youtu.be/pqgcEIaXGME) Digestive System Part 2, start at 4:40 for Stomach
+- [Crash Course](https://youtu.be/pqgcEIaXGME) Digestive System Part 2, 10 minute start at 4:40 for Stomach
 - Anatomy and Physiology. Digestive System [Youtube Video from Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
 - Ch. 24 Digestive System. [YouTube video from Anatomy GMC- Making Anatomy & Physiology Easy](https://youtu.be/fW1KTOk334s)
 
