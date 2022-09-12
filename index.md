@@ -12,10 +12,10 @@
 - [x] Anatomy and Physiology-Digestive System [1 hr video by Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
 - [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
 
-#### Practice Tests: Digestive System was done in years 2023, 2018, 2013, and 2012
+#### Practice Tests 
 - [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)-
   <i>see 'User Submitted Sets, Div C' for test links</i>
-    - [x] DONE: Columbia, Troy
+  - [x] DONE: Columbia, Troy
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
 - [Current Test Exchange for 2017-2022](https://scioly.org/tests/)
    
