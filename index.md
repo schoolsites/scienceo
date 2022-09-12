@@ -1,5 +1,3 @@
-###  Anatomy 2022
-
 ## Digestive System
 #### Study Guides
 - [Digestive System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf) *memorize
