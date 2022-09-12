@@ -6,19 +6,21 @@ Study Guides
 - Digestive System 2023 Handout
 - [SciOLY Anatomy/Digestive System 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Digestive_System) *must read
 - [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
-- [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List)
+- [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List) *learn later
 
 Study Videos
-- [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14
+- [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14. DONE 9/11
 - [Crash Course](https://youtu.be/pqgcEIaXGME) 10 minute videio on Digestive System Part 2, start at 4:40 for Stomach
-- Anatomy and Physiology. Digestive System [Youtube Video from Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
+- Anatomy and Physiology. Digestive System [Youtube Video from Dr. Vanessa](https://youtu.be/vq6Ez993j0Q). DONE 9/10
 - Ch. 24 Digestive System. [YouTube video from Anatomy GMC- Making Anatomy & Physiology Easy](https://youtu.be/fW1KTOk334s)
 
-Practice Tests
-- [Test Exchange](https://scioly.org/tests/). For years 2022-2017
-- [Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange). Scroll down to 2018 Digestive
+Practice Tests: Digestive System was done in years 2023, 2018, 2013, and 2012
 
-Scioly.org overview for Anatomy & Physiology 50 minute event
+- [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange). 
+Scroll down to "User Submitted Sets, Division C" for links to each Google Drive with old tests and answer key.  DONE: Columbia, Troy
+- [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
+- [Test Exchange](https://scioly.org/tests/). 
+For years 2022-2017 Scioly.org overview for Anatomy & Physiology 50 minute event
 - Scroll down to learn "[Must Know Labels to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
 Miscellaneous
