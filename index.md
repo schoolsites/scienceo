@@ -1,31 +1,32 @@
 ###  Anatomy 2022
 
 ## Digestive System
-Study Guides
+#### Study Guides
 - [Digestive System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf) *memorize
 - Digestive System 2023 Handout
 - [SciOLY Anatomy/Digestive System 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Digestive_System) *must read
 - [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
 - [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List) *learn later
 
-Study Videos
-- [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14. DONE 9/11
-- [Crash Course](https://youtu.be/pqgcEIaXGME) 10 minute videio on Digestive System Part 2, start at 4:40 for Stomach
-- Anatomy and Physiology. Digestive System [Youtube Video from Dr. Vanessa](https://youtu.be/vq6Ez993j0Q). DONE 9/10
-- Ch. 24 Digestive System. [YouTube video from Anatomy GMC- Making Anatomy & Physiology Easy](https://youtu.be/fW1KTOk334s)
+#### Study Videos
+- [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14
+- [ ] [Crash Course](https://youtu.be/pqgcEIaXGME) 10 minute videio on Digestive System Part 2, start at 4:40 for Stomach
+- [x] Anatomy and Physiology. Digestive System [Youtube Video from Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
+- [ ] Ch. 24 Digestive System. [YouTube video from Anatomy GMC- Making Anatomy & Physiology Easy](https://youtu.be/fW1KTOk334s)
 
-Practice Tests: Digestive System was done in years 2023, 2018, 2013, and 2012
-
-- [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange). 
-Scroll down to "User Submitted Sets, Division C" for links to each Google Drive with old tests and answer key.  DONE: Columbia, Troy
+#### Practice Tests: Digestive System was done in years 2023, 2018, 2013, and 2012
+- [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)</br>
+  Scroll down to "User Submitted Sets, Division C" for links to each Google Drive with old tests and answer key</br>
+    - [x] DONE: Columbia, Troy
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
-- [Test Exchange](https://scioly.org/tests/). 
-For years 2022-2017 Scioly.org overview for Anatomy & Physiology 50 minute event
-- Scroll down to learn "[Must Know Labels to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
+- [Current Test Exchange](https://scioly.org/tests/). </br>
+   For years 2022-2017 Scioly.org 
+   
+#### Overview for Anatomy & Physiology 50 minute event
+- Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
-Miscellaneous
+#### Miscellaneous
 - [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/).  Can click options, D2 for more Digestive Bullet points.  Topics in Biology in concisde textbook style.
-
 
 ## Respiratory
 - [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
