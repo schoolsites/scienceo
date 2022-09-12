@@ -11,22 +11,21 @@
 #### Study Videos
 - [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14 [x]
 - [ ] [Crash Course Digestive part 2](https://youtu.be/pqgcEIaXGME) 10 minute video, start at 4:40 for Stomach 
-- [x] Anatomy and Physiology-Digestive System [by Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
-- [ ] Ch. 24 Digestive System. [by Anatomy GMC](https://youtu.be/fW1KTOk334s)
+- [x] Anatomy and Physiology-Digestive System [1 hr video by Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
+- [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
 
 #### Practice Tests: Digestive System was done in years 2023, 2018, 2013, and 2012
 - [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange) 
-  Scroll down to "User Submitted Sets, Division C" for links to each Google Drive with old tests and answer key 
+  <i>scroll to "User Submitted Sets" and "Division C" for links to old tests </i>
     - [x] DONE: Columbia, Troy
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
 - [Current Test Exchange for 2017-2022](https://scioly.org/tests/)
-   For years 2022-2017 Scioly.org 
    
 ##### Overview for Anatomy & Physiology 50 minute event
 - Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
 ##### Miscellaneous
-- [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/).  Can click options, D2 for more Digestive Bullet points.  Topics in Biology in concisde textbook style.
+- [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)- <i>Topics in Biology in concise textbook style, see option D2.</i>
 
 ## Respiratory
 - [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
