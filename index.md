@@ -7,7 +7,7 @@
 - [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List) *learn later
 
 #### Study Videos
-- [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14 [x]
+- [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14
 - [ ] [Crash Course Digestive part 2](https://youtu.be/pqgcEIaXGME) 10 minute video, start at 4:40 for Stomach 
 - [x] Anatomy and Physiology-Digestive System [1 hr video by Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
 - [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
