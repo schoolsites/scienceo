@@ -14,7 +14,7 @@
 
 #### Practice Tests: Digestive System was done in years 2023, 2018, 2013, and 2012
 - [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)-
-  <i>see 'User Submitted Sets, Div C'for test links</i>
+  <i>see 'User Submitted Sets, Div C' for test links</i>
     - [x] DONE: Columbia, Troy
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
 - [Current Test Exchange for 2017-2022](https://scioly.org/tests/)
