@@ -15,17 +15,17 @@
 [ ] Ch. 24 Digestive System. [by Anatomy GMC](https://youtu.be/fW1KTOk334s)
 
 #### Practice Tests: Digestive System was done in years 2023, 2018, 2013, and 2012
-- [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)</br>
-  Scroll down to "User Submitted Sets, Division C" for links to each Google Drive with old tests and answer key</br>
+- [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange) 
+  Scroll down to "User Submitted Sets, Division C" for links to each Google Drive with old tests and answer key 
     - [x] DONE: Columbia, Troy
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
-- [Current Test Exchange](https://scioly.org/tests/). </br>
+- [Current Test Exchange for 2017-2022](https://scioly.org/tests/)
    For years 2022-2017 Scioly.org 
    
-#### Overview for Anatomy & Physiology 50 minute event
+##### Overview for Anatomy & Physiology 50 minute event
 - Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
-#### Miscellaneous
+##### Miscellaneous
 - [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/).  Can click options, D2 for more Digestive Bullet points.  Topics in Biology in concisde textbook style.
 
 ## Respiratory
