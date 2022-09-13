@@ -1,10 +1,9 @@
 ## Digestive System
 #### Study Guides
-- [Digestive System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf) *memorize
+- [Digestive System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf) <i>*memorize</i>
 - Digestive System 2023 Handout
-- [SciOLY Anatomy/Digestive System 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Digestive_System) *must read
-- [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
-- [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List) *learn later
+- [SciOLY Anatomy/Digestive System 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Digestive_System) <i>*must read</i>
+
 
 #### Study Videos
 - [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14
@@ -24,8 +23,11 @@
 - Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
 ##### Miscellaneous
+- [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List) <i>*learn later</i>
 - [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)- <i>Topics in Biology in concise textbook style, see option D2.</i>
 - [Salivary Glands](https://www.uptodate.com/contents/image?imageKey=PC%2F115303)
+- [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
+
 
 ## Respiratory
 - [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
