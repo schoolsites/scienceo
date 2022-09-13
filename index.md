@@ -18,12 +18,14 @@
   - [x] DONE: Columbia, Troy
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
 - [Current Test Exchange for 2017-2022](https://scioly.org/tests/)
-   
+- [Wiley Review Sheets and Practice Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=2287&itemId=0471689343&chapterId=16788)
+ 
 ##### Overview for Anatomy & Physiology 50 minute event
 - Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
 ##### Miscellaneous
 - [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)- <i>Topics in Biology in concise textbook style, see option D2.</i>
+- [Salivary Glands](https://www.uptodate.com/contents/image?imageKey=PC%2F115303)
 
 ## Respiratory
 - [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
