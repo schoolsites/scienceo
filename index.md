@@ -12,10 +12,13 @@
 - [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
 - [ ] [KhanAcademy Digesting Food](https://youtu.be/v2V4zMx33Mc)
 
+#### Self Study
+- [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)
+ 
 #### Practice Tests 
 - [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)-
   <i>see 'User Submitted Sets, Div C' for test links</i>
-  - [x] DONE: Columbia, Troy, Boyceville
+  - [x] DONE: Columbia, Troy, Boyceville, Cypress Falls Invitational
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
 - [Current Test Exchange for 2017-2022](https://scioly.org/tests/)
 - [Wiley Review Sheets and Practice Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=6205&itemId=0470565101&chapterId=66211)- chapter 24, Interactions activity sheets, real anatomy activiy sheets, anatomy drill and practice, practice quizzes 
