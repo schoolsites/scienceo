@@ -6,8 +6,8 @@
 
 
 #### Study Videos
-- [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video 
-- [ ] [Crash Course Digestive part 2](https://youtu.be/pqgcEIaXGME)- 10 minute video 
+- [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw), 9 minute Digestion Video 
+- [ ] [Crash Course Digestive part 2](https://youtu.be/pqgcEIaXGME), 10 minute video 
 - [x] Anatomy and Physiology-Digestive System [1 hr video by Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
 - [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
 - [ ] [KhanAcademy Digesting Food](https://youtu.be/v2V4zMx33Mc)
