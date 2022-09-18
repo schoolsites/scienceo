@@ -7,7 +7,7 @@
 
 #### Study Videos
 - [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw)- 9 minute Digestion Video, start at 2:14
-- [ ] [Crash Course Digestive part 2]- (https://youtu.be/pqgcEIaXGME) 10 minute video, start at 4:40 for Stomach 
+- [ ] [Crash Course Digestive part 2](https://youtu.be/pqgcEIaXGME) 10 minute video, start at 4:40 for Stomach 
 - [x] Anatomy and Physiology-Digestive System [1 hr video by Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
 - [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
 - [ ] [KhanAcademy Digesting Food](https://youtu.be/v2V4zMx33Mc)
@@ -21,7 +21,7 @@
   - [x] DONE: Columbia, Troy, Boyceville, Cypress Falls Invitational
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
 - [Current Test Exchange for 2017-2022](https://scioly.org/tests/)
-- [Wiley Review Sheets and Practice Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=6205&itemId=0470565101&chapterId=66211)- chapter 24, Interactions activity sheets, real anatomy activiy sheets, anatomy drill and practice, practice quizzes 
+- [Wiley Review Sheets and Practice Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=6205&itemId=0470565101&chapterId=66211): ch 24, Interactions activity sheet, real anatomy activiy sheet
 ##### Overview for Anatomy & Physiology 50 minute event
 - Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
