@@ -7,6 +7,7 @@
 
 #### Study Videos
 - [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw), 9 minute Digestion Video 
+- [ ] Amoeba Sisters](https://youtu.be/1UvuBYUbFk0), 8 minute Digestion
 - [ ] [Crash Course Digestive part 2](https://youtu.be/pqgcEIaXGME), 10 minute video 
 - [x] Anatomy and Physiology-Digestive System [1 hr video by Dr. Vanessa](https://youtu.be/vq6Ez993j0Q) 
 - [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
@@ -41,7 +42,10 @@
 - Immunology System 2018 Handout
 - Immunology System 2023 Handout
 - [SciOLY Immunology 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Immune_System)
-- [Bozeman Science](https://youtu.be/z3M0vU3Dv8E) - 13 minute video on Immunology
+- [ ] [Amoeba Sister Immunology](https://youtu.be/fSEFXl2XQpc), 8 minute on Immunology
+
+- [Kurzgesagt](https://youtu.be/lXfEK8G8CUI), Immune system 10 min video
+- [x] [Bozeman Science](https://youtu.be/z3M0vU3Dv8E) - 13 minute video on Immunology, stopped at MHC
 
 ## General
 - [Science Olympiad](https://www.soinc.org): link to state websites, general rules, FAQ
