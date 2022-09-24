@@ -43,8 +43,7 @@
 - Immunology System 2023 Handout
 - [SciOLY Immunology 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Immune_System)
 - [ ] [Amoeba Sister Immunology](https://youtu.be/fSEFXl2XQpc), 8 minute on Immunology
-
-- [Kurzgesagt](https://youtu.be/lXfEK8G8CUI), Immune system 10 min video
+- [ ] [Kurzgesagt](https://youtu.be/lXfEK8G8CUI), Immune system 10 min video
 - [x] [Bozeman Science](https://youtu.be/z3M0vU3Dv8E) - 13 minute video on Immunology, stopped at MHC
 
 ## General
