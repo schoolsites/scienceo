@@ -39,7 +39,7 @@
 - Respiratory System 2023 Handout
 
 ## Immunology
-- Immunology System 2018 Handout
+- [Immunology System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_IMMUNE_SYSTEM_HANDOUT.pdf)
 - Immunology System 2023 Handout
 - [SciOLY Immunology 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Immune_System)
 - [ ] [Amoeba Sister Immunology](https://youtu.be/fSEFXl2XQpc), 8 minute on Immunology
