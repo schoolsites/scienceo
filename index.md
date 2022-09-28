@@ -46,6 +46,12 @@
 - [ ] [Kurzgesagt](https://youtu.be/lXfEK8G8CUI), Immune system 10 min video
 - [x] [Bozeman Science](https://youtu.be/z3M0vU3Dv8E) - 13 minute video on Immunology, stopped at MHC
 - [ ] [Hematopoisis and in the Bone Marrow](https://youtu.be/XVWOlKdpF_I), Khan Academy Medicine
+
+## Disease Detectives
+- [SciOLY Disease Detectives Bullet Points](https://scioly.org/wiki/index.php/Disease_Detectives)
+- [CDC Disease Detectives for Science O](https://www.cdc.gov/careerpaths/diseasedetectives/index.html)
+- [Official Science Olympiad Disease Detectives Resources](https://www.soinc.org/disease-detectives-c), Background & Surveillance, Investigation Notes, and Patterns 
+
 ## General
 - [Science Olympiad](https://www.soinc.org): link to state websites, general rules, FAQ
 - Nevada Science Olympiad - YouTube [High School Division Awards](https://youtu.be/ebq0a__sUOk), March 2022 
