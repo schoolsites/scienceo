@@ -16,7 +16,7 @@
 
 #### Self Study
 - [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** Digestive, Lymphatic
-- - [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)- <i>Topics in Biology in concise textbook style, see option D2.</i>
+- [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)- <i>Topics in Biology in concise textbook style, see option D2.</i>
  
 #### Practice Tests 
 - [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)-
