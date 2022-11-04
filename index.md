@@ -2,8 +2,8 @@
 
 #### Self Study
 - [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** <i>Digestive, Lymphatic</i>
-- [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/) Digestion
-- [Bio Ninja Learning Modules](https://ib.bioninja.com.au/additional-resources-2/learning-modules/) <i>6.1, 6.3, 6.11</i>
+- [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)* <i>Digestion</i>
+- [Bio Ninja Learning Modules](https://ib.bioninja.com.au/additional-resources-2/learning-modules/)* <i>6.1, 6.3, 6.11</i>
 - From home menu can also click Human Physiology (standard level 6, Item 3, Disease Defences)
  
 #### Practice Tests 
