@@ -3,8 +3,8 @@
 #### Self Study
 - [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** Digestive, Lymphatic
 - [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)- <i>Topics in Biology in concise textbook style, see option D2 for Digestion.</i>  
-- [Bio Ninja Additional Resources] 6..1, 6.1, 11.1](https://ib.bioninja.com.au/additional-resources-2/learning-modules/)
-- Can also go to home, click Human Physiology (standard level 6, Item 3, Disease Defences
+- [Bio Ninja Additional Resources](https://ib.bioninja.com.au/additional-resources-2/learning-modules/). 6.1, 6.3, 6.11
+- From home menu can also click Human Physiology (standard level 6, Item 3, Disease Defences
  
 #### Practice Tests 
 - [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)-
@@ -44,7 +44,7 @@
 - Immunology System 2023 Handout
 - [SciOLY Immunology 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Immune_System)
 
-#### Self Study
+#### Basic Intro to Immunity
 - [KidsHealth Immunity for Teens](https://kidshealth.org/en/teens/immune.html)
 - [Vaccine Makers lesson plans](https://vaccinemakers.org/lessons/high-school/human-immune-system-unit-1/organs-and-tissues-immune-system)
 - See BioNinja links above
