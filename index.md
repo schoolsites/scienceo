@@ -47,7 +47,6 @@
 - [x] [Formation of Blood Cell Lines](https://youtu.be/0deCbmh7PHs), Alla Medical Media
 - [x] [Basophil](https://youtu.be/V46W3WMZH5M), Priorize 2 minutes
 - [x] [Leukocytes: Neutrophils](https://youtu.be/XQKxvVxHLvg), Wendy Riggs 6:51
-- [ ] 
 
 ## Respiratory
 - [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
