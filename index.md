@@ -21,7 +21,6 @@
 - Digestive System 2023 Handout
 - [SciOLY Anatomy/Digestive System 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Digestive_System) <i>*must read</i>
 
-
 #### Study Videos
 - [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw), 9 minute Digestion Video 
 - [ ] [Amoeba Sisters](https://youtu.be/1UvuBYUbFk0), 8 minute Digestion
@@ -30,10 +29,6 @@
 - [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
 - [ ] [KhanAcademy Digesting Food](https://youtu.be/v2V4zMx33Mc)
 
-##### Miscellaneous
-- [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List) <i>*learn later</i>
-- [Salivary Glands](https://www.uptodate.com/contents/image?imageKey=PC%2F115303)
-- [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
 
 ##### Overview for Anatomy & Physiology 50 minute event
 - Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
@@ -58,7 +53,10 @@
 - [x] [Basophil](https://youtu.be/V46W3WMZH5M), Priorize 2 minutes
 - [x] [Leukocytes: Neutrophils](https://youtu.be/XQKxvVxHLvg), Wendy Riggs 6:51
 
-#### Other Resources
+##### Miscellaneous
+- [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List) <i>*learn later</i>
+- [Salivary Glands](https://www.uptodate.com/contents/image?imageKey=PC%2F115303)
+- [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
 - [Immune Bite-size questions](https://www.biology-questions-and-answers.com/the-immune-system.html)
 
 ## Respiratory
