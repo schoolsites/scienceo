@@ -1,3 +1,4 @@
+## ATECH Science Olympiad 2023 - Anatomy & Physiology
 ## Digestive System
 #### Study Guides
 - [Digestive System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf) <i>*memorize</i>
@@ -14,7 +15,7 @@
 - [ ] [KhanAcademy Digesting Food](https://youtu.be/v2V4zMx33Mc)
 
 #### Self Study
-- [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)***
+- [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** Digestive, Lymphatic
  
 #### Practice Tests 
 - [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)-
@@ -51,7 +52,7 @@
 - [x] [Formation of Blood Cell Lines](https://youtu.be/0deCbmh7PHs), Alla Medical Media
 - [x] [Basophil](https://youtu.be/V46W3WMZH5M), Priorize 2 minutes
 - [x] [Leukocytes: Neutrophils](https://youtu.be/XQKxvVxHLvg), Wendy Riggs 6:51
-## Disease Detectives
+## ATECH Science Olympiad - Disease Detectives
 - [SciOLY Disease Detectives Bullet Points](https://scioly.org/wiki/index.php/Disease_Detectives)
 - [CDC Disease Detectives for Science O](https://www.cdc.gov/careerpaths/diseasedetectives/index.html)
 - [Official Science Olympiad Disease Detectives Resources](https://www.soinc.org/disease-detectives-c), Background & Surveillance, Investigation Notes, and Patterns, CDC Nerd Academy videos
