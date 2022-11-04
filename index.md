@@ -1,4 +1,4 @@
-## ATECH Science Olympiad 2023 - Anatomy & Physiology
+## ATECH - Anatomy & Physiology
 ## Digestive System
 #### Study Guides
 - [Digestive System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_OVERVIEW_DIGESTIVE_SYSTEM_HANDOUT.pdf) <i>*memorize</i>
@@ -23,7 +23,7 @@
   - [x] DONE: Columbia, Troy, Boyceville, Cypress Falls Invitational. North Carolina Regional
 - [2013 Test Exchange Archive](https://scioly.org/wiki/index.php/2013_Test_Exchange)
 - [Current Test Exchange for 2017-2022](https://scioly.org/tests/)
-- [Wiley Review Sheets and Practice Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=6205&itemId=0470565101&chapterId=66211): ch 24
+- [Wiley Review Sheets and Practice Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=6205&itemId=0470565101&chapterId=66211): ch 22 & 24
 - [Solon Invitational](https://docs.google.com/document/d/1wlxQfQa6pNFOBNVWzLEV3HGRN6Md0qp8/edit)
 
 ##### Overview for Anatomy & Physiology 50 minute event
@@ -53,7 +53,7 @@
 - [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
 - Respiratory System 2023 Handout
 
-## ATECH Science Olympiad - Disease Detectives
+## ATECH - Disease Detectives
 - [SciOLY Disease Detectives Bullet Points](https://scioly.org/wiki/index.php/Disease_Detectives)
 - [CDC Disease Detectives for Science O](https://www.cdc.gov/careerpaths/diseasedetectives/index.html)
 - [Official Science Olympiad Disease Detectives Resources](https://www.soinc.org/disease-detectives-c), Background & Surveillance, Investigation Notes, and Patterns, CDC Nerd Academy videos
