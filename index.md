@@ -29,10 +29,6 @@
 - [ ] Ch. 24 Digestive System. [1 hr video by Anatomy GMC](https://youtu.be/fW1KTOk334s)
 - [ ] [KhanAcademy Digesting Food](https://youtu.be/v2V4zMx33Mc)
 
-
-##### Overview for Anatomy & Physiology 50 minute event
-- Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
-
 ## Immunology
 #### Study Guides
 - [Immunology System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_IMMUNE_SYSTEM_HANDOUT.pdf)
@@ -58,6 +54,8 @@
 - [Salivary Glands](https://www.uptodate.com/contents/image?imageKey=PC%2F115303)
 - [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
 - [Immune Bite-size questions](https://www.biology-questions-and-answers.com/the-immune-system.html)
+- Overview for Anatomy & Physiology 50 minute event.  Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
+
 
 ## Respiratory
 - [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
