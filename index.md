@@ -35,23 +35,24 @@
 - [Salivary Glands](https://www.uptodate.com/contents/image?imageKey=PC%2F115303)
 - [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
 
-
-## Respiratory
-- [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
-- Respiratory System 2023 Handout
-
 ## Immunology
 - [Immunology System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_IMMUNE_SYSTEM_HANDOUT.pdf)
 - Immunology System 2023 Handout
 - [SciOLY Immunology 2022 Bullet Summary](https://scioly.org/wiki/index.php/Anatomy/Immune_System)
 - [Immune Bite-size questions](https://www.biology-questions-and-answers.com/the-immune-system.html)
-- [ ] [Amoeba Sister Immunology](https://youtu.be/fSEFXl2XQpc), 8 minute on Immunology
-- [ ] [Kurzgesagt](https://youtu.be/lXfEK8G8CUI), Immune system 10 min video
+- [x] [Amoeba Sister Immunology](https://youtu.be/fSEFXl2XQpc), 8 minute on Immunology - REVIEW and summarize
+- [x] [Kurzgesagt](https://youtu.be/lXfEK8G8CUI), Immune system 10 min video - REVIEW and summarize
 - [x] [Bozeman Science](https://youtu.be/z3M0vU3Dv8E) - 13 minute video on Immunology, stopped at MHC
 - [ ] [Hematopoisis and in the Bone Marrow](https://youtu.be/XVWOlKdpF_I), Khan Academy Medicine
 - [x] [Formation of Blood Cell Lines](https://youtu.be/0deCbmh7PHs), Alla Medical Media
 - [x] [Basophil](https://youtu.be/V46W3WMZH5M), Priorize 2 minutes
 - [x] [Leukocytes: Neutrophils](https://youtu.be/XQKxvVxHLvg), Wendy Riggs 6:51
+- [ ] 
+
+## Respiratory
+- [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
+- Respiratory System 2023 Handout
+
 ## ATECH Science Olympiad - Disease Detectives
 - [SciOLY Disease Detectives Bullet Points](https://scioly.org/wiki/index.php/Disease_Detectives)
 - [CDC Disease Detectives for Science O](https://www.cdc.gov/careerpaths/diseasedetectives/index.html)
