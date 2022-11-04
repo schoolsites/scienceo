@@ -16,6 +16,7 @@
 
 #### Self Study
 - [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** Digestive, Lymphatic
+- - [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)- <i>Topics in Biology in concise textbook style, see option D2.</i>
  
 #### Practice Tests 
 - [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)-
@@ -26,14 +27,13 @@
 - [Wiley Review Sheets and Practice Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=6205&itemId=0470565101&chapterId=66211): ch 22 & 24
 - [Solon Invitational](https://docs.google.com/document/d/1wlxQfQa6pNFOBNVWzLEV3HGRN6Md0qp8/edit)
 
-##### Overview for Anatomy & Physiology 50 minute event
-- Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
-
 ##### Miscellaneous
 - [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List) <i>*learn later</i>
-- [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)- <i>Topics in Biology in concise textbook style, see option D2.</i>
 - [Salivary Glands](https://www.uptodate.com/contents/image?imageKey=PC%2F115303)
 - [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
+
+##### Overview for Anatomy & Physiology 50 minute event
+- Scroll down to learn "[Must Know Label to describe Orienting Body Part Location](https://scioly.org/wiki/index.php/Anatomy_and_Physiology)"
 
 ## Immunology
 - [Immunology System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_IMMUNE_SYSTEM_HANDOUT.pdf)
