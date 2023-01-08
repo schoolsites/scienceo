@@ -13,7 +13,7 @@
 #### Practice Tests
 - [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)<i>user submitted sets, division C</i>
 - [x] Anatomy Done: Columbia, Troy, Boyceville, Cypress Falls Inviational, North Carolina Regional, Westlake
-- [ ] Disease Detectives Done:
+- [ ] Disease Detectives Done: 2017 UT Austin started, 2018 Westlake started 
 - [2013 Test Excahge](https://scioly.org/wiki/index.php/2013_Test_Exchange)
 - [2017-2022 Practice Test Exchange](https://scioly.org/tests/)
 - [Wiley Review Sheets and Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=6205&itemId=0470565101&chapterId=66211)
