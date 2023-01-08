@@ -39,6 +39,19 @@
 - [x] [Basophil](https://youtu.be/V46W3WMZH5M), Priorize 2 minutes 
 - [x] [Leukocytes: Neutrophils](https://youtu.be/XQKxvVxHLvg), Wendy Riggs 6:51
 
+####Self Study
+Anatomy Drills and Practice
+*** Digestive, Lymphatic
+BioNinja* Digestion
+Bio Ninja Learning Modules* 6.1, 6.3, 6.11 ...from home menu can also click Human Physiology/standard level 6, Item 3, Disease Defences
+Practice Tests
+2018 Test Exchange Archive- see 'User Submitted Sets, Div C' for test links
+ DONE: Columbia, Troy, Boyceville, Cypress Falls Invitational. North Carolina Regional
+2013 Test Exchange Archive
+Current Test Exchange for 2017-2022
+Wiley Review Sheets and Practice Quizzes: ch 22 & 24
+Solon Invitational
+
  
  #### Self Study
 - [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** <i>Digestive, Lymphatic</i>
