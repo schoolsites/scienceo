@@ -4,6 +4,7 @@
 #### Self Study
 - [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** <i>Digestive, Lymphatic</i>
 - [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)* <i>Digestion</i>
+- [My SO Anatomoy Powerpoints](https://www.soinc.org/myso): Week of Jan 8th, review powerpoints and do notes worksheets
  
 #### Basic Intro to Immunity
 - [BioNinja Disease Defences](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/63-defence-against-infectio/) Under Standard
