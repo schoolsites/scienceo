@@ -1,4 +1,4 @@
-## ATECH - Science Olympiad Division C, 2023-2024
+## ATECH - Science Olympiad (Division C) - High School Division
 
 
 #### Anatomy & Physiology Study
