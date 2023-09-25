@@ -32,8 +32,6 @@
   - [ ] 2018 Sample Test
   - [ ] 2017 Sample Test 
 
-
-
 ## General
 - [Science Olympiad](https://www.soinc.org): link to state websites, general rules, FAQ
 - Nevada Science Olympiad - YouTube [High School Division Awards](https://youtu.be/ebq0a__sUOk), March 2022 
