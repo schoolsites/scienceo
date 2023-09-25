@@ -1,15 +1,15 @@
-## ATECH - Anatomy & Physiology
+## ATECH - Science Olympiad Division C, 2023-2024
 
 
-#### Self Study
-- [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** <i>Cardiovascular, Lymphatic</i>
+#### Anatomy & Physiology Study
+- [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)
+  *** <i>Heart, Lymphatic, Urinary</i>
 - [SciOly Anatomy: Cardiovascular System](https://scioly.org/wiki/index.php/Anatomy/Cardiovascular_System)
 - [Body Smart Circulatory System](https://www.getbodysmart.com/circulatory-system/)
 - [High Yield Science O 2019 Cardiovascular Slide Show](https://slideplayer.com/slide/4767275/)
 - [SciOly Anatomy: Excretory System](https://scioly.org/wiki/index.php/Anatomy/Excretory_System)
 - [Body Smart Excretory System](https://www.getbodysmart.com/urinary-system/)
-- [2019 Excretory System Science O Handout](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.soinc.org/sites/default/files/uploaded_files/5_19_EXCRETORY_SYSTEM.pdf)
-  
+- [2019 Excretory System Science O Handout](https://www.soinc.org/sites/default/files/uploaded_files/5_19_EXCRETORY_SYSTEM.pdf)
 
 #### Disease Detectives
 - [Science O Disease Detectives](https
@@ -37,6 +37,10 @@
 ## General
 - [Science Olympiad](https://www.soinc.org): link to state websites, general rules, FAQ
 - Nevada Science Olympiad - YouTube [High School Division Awards](https://youtu.be/ebq0a__sUOk), March 2022 
+
+
+
+
 
   
 ## ARCHIVES from 2022 Competition:
