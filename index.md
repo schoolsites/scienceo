@@ -2,25 +2,18 @@
 
 
 #### Self Study
-- [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** <i>Digestive, Lymphatic</i>
-- [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)* <i>Digestion</i>
-- [My SO Anatomoy Powerpoints](https://www.soinc.org/myso): Week of Jan 8th, review powerpoints and do notes worksheets
- 
-#### Basic Intro to Immunity
-- [BioNinja Disease Defences](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/63-defence-against-infectio/) Under Standard
-- [BioNinja Antibiody Protection](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/63-defence-against-infectio/) Under Higher Level
-- [Bio Ninja Learning Modules](https://ib.bioninja.com.au/additional-resources-2/learning-modules/)* <i>6.1, 6.3, 6.11</i>
-
-#### Practice Tests
-- [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)<i>user submitted sets, division C</i>
-- [x] Anatomy Done: Columbia, Troy, Boyceville, Cypress Falls Inviational, North Carolina Regional, Westlake
-- [ ] Disease Detectives Done: 2017 UT Austin started, 2018 Westlake started 
-- [2013 Test Excahge](https://scioly.org/wiki/index.php/2013_Test_Exchange)
-- [2017-2022 Practice Test Exchange](https://scioly.org/tests/)
-- [Wiley Review Sheets and Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=6205&itemId=0470565101&chapterId=66211)
+- [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)*** <i>Cardiovascular, Lymphatic</i>
+- [SciOly Anatomy: Cardiovascular System](https://scioly.org/wiki/index.php/Anatomy/Cardiovascular_System)
+- [Body Smart Circulatory System](https://www.getbodysmart.com/circulatory-system/)
+- [High Yield Science O 2019 Cardiovascular Slide Show](https://slideplayer.com/slide/4767275/)
+- [SciOly Anatomy: Excretory System](https://scioly.org/wiki/index.php/Anatomy/Excretory_System)
+- [Body Smart Excretory System](https://www.getbodysmart.com/urinary-system/)
+- [2019 Excretory System Science O Handout](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.soinc.org/sites/default/files/uploaded_files/5_19_EXCRETORY_SYSTEM.pdf)
+  
 
 #### Disease Detectives
-- [Science O Disease Detectives](https://www.soinc.org/disease-detectives-c)
+- [Science O Disease Detectives](https
+- ://www.soinc.org/disease-detectives-c)
 - [SciOLY Disease Detectives Bullet Points](https://scioly.org/wiki/index.php/Disease_Detectives)
 - [CDC Disease Detectives for Science O](https://www.cdc.gov/careerpaths/diseasedetectives/index.html)
 - [Official Science Olympiad Disease Detectives Resources](https://www.soinc.org/disease-detectives-c), Background & Surveillance, Investigation Notes, and Patterns, CDC Nerd Academy videos
@@ -39,6 +32,14 @@
   - [ ] 2018 Sample Test
   - [ ] 2017 Sample Test 
 
+
+
+## General
+- [Science Olympiad](https://www.soinc.org): link to state websites, general rules, FAQ
+- Nevada Science Olympiad - YouTube [High School Division Awards](https://youtu.be/ebq0a__sUOk), March 2022 
+
+  
+## ARCHIVES from 2022 Competition:
 ## Immunology
 #### Study Guides
 - [Immunology System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_IMMUNE_SYSTEM_HANDOUT.pdf)
@@ -66,8 +67,21 @@
 - [SciOLY Anatomy/Digestive Enzymes List](https://scioly.org/wiki/index.php/Anatomy/Digestive_Secretion_List) <i>*learn later</i>
 - [Salivary Glands](https://www.uptodate.com/contents/image?imageKey=PC%2F115303)
 - [Biology Question & Answers](https://www.biology-questions-and-answers.com/physiology-review.html)
+- [BioNinja](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/61-digestion-and-absorption/)* <i>Digestion</i>
+- [My SO Anatomoy Powerpoints](https://www.soinc.org/myso): Week of Jan 8th, review powerpoints and do notes worksheets
+ 
+#### Basic Intro to Immunity
+- [BioNinja Disease Defences](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/63-defence-against-infectio/) Under Standard
+- [BioNinja Antibiody Protection](https://ib.bioninja.com.au/standard-level/topic-6-human-physiology/63-defence-against-infectio/) Under Higher Level
+- [Bio Ninja Learning Modules](https://ib.bioninja.com.au/additional-resources-2/learning-modules/)* <i>6.1, 6.3, 6.11</i>
 
-#### Study Videos
+#### Practice Tests
+- [2018 Test Exchange Archive](https://scioly.org/wiki/index.php/2018_Test_Exchange)<i>user submitted sets, division C</i>
+- [x] Anatomy Done: Columbia, Troy, Boyceville, Cypress Falls Inviational, North Carolina Regional, Westlake
+- [ ] Disease Detectives Done: 2017 UT Austin started, 2018 Westlake started 
+- [2013 Test Excahge](https://scioly.org/wiki/index.php/2013_Test_Exchange)
+- [2017-2022 Practice Test Exchange](https://scioly.org/tests/)
+- [Wiley Review Sheets and Quizzes](https://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=6205&itemId=0470565101&chapterId=66211)#### Study Videos
 - [x] [Bozeman Science](https://youtu.be/nM5kMSjBrmw), 9 minute Digestion Video 
 - [ ] [Amoeba Sisters](https://youtu.be/1UvuBYUbFk0), 8 minute Digestion
 - [ ] [Crash Course Digestive part 2](https://youtu.be/pqgcEIaXGME), 10 minute video 
@@ -79,10 +93,6 @@
 ## Respiratory
 - [Respiratory System 2018 Handout](https://www.soinc.org/sites/default/files/uploaded_files/2018_RESPIRATORY_SYSTEM_HANDOUT.pdf)
 - Respiratory System 2023 Handout
-
-## General
-- [Science Olympiad](https://www.soinc.org): link to state websites, general rules, FAQ
-- Nevada Science Olympiad - YouTube [High School Division Awards](https://youtu.be/ebq0a__sUOk), March 2022 
 
  
 
