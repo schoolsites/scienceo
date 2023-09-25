@@ -10,7 +10,7 @@
 - [SciOly Anatomy: Excretory System](https://scioly.org/wiki/index.php/Anatomy/Excretory_System)
 - [Body Smart Excretory System](https://www.getbodysmart.com/urinary-system/)
 - [2019 Excretory System Science O Handout](https://www.soinc.org/sites/default/files/uploaded_files/5_19_EXCRETORY_SYSTEM.pdf)
-
+ 
 #### Disease Detectives
 - [Science O Disease Detectives](https
 - ://www.soinc.org/disease-detectives-c)
