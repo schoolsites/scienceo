@@ -12,8 +12,7 @@
 - [2019 Excretory System Science O Handout](https://www.soinc.org/sites/default/files/uploaded_files/5_19_EXCRETORY_SYSTEM.pdf)
 
 #### Disease Detectives
-- [Science O Disease Detectives](https
-- ://www.soinc.org/disease-detectives-c)
+- [Science O Disease Detectives](https://www.soinc.org/disease-detectives-c)
 - [SciOLY Disease Detectives Bullet Points](https://scioly.org/wiki/index.php/Disease_Detectives)
 - [CDC Disease Detectives for Science O](https://www.cdc.gov/careerpaths/diseasedetectives/index.html)
 - [Official Science Olympiad Disease Detectives Resources](https://www.soinc.org/disease-detectives-c), Background & Surveillance, Investigation Notes, and Patterns, CDC Nerd Academy videos
