@@ -10,7 +10,8 @@
 - [SciOly Anatomy: Excretory System](https://scioly.org/wiki/index.php/Anatomy/Excretory_System)
 - [Body Smart Excretory System](https://www.getbodysmart.com/urinary-system/)
 - [2019 Excretory System Science O Handout](https://www.soinc.org/sites/default/files/uploaded_files/5_19_EXCRETORY_SYSTEM.pdf)
-
+- [ ] [MIT Archive, Do 2018](https://scioly.mit.edu/archives.html)
+- [ ] [Princeton Archive, Do 2019](https://scioly.princeton.edu/past-tests)
 #### Disease Detectives
 - [Science O Disease Detectives](https://www.soinc.org/disease-detectives-c)
 - [SciOLY Disease Detectives Bullet Points](https://scioly.org/wiki/index.php/Disease_Detectives)
