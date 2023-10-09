@@ -10,6 +10,7 @@
 - [Allia Medical Media: The Cardiac Cycle, Animation](https://youtu.be/IS9TD9fHFv0?si=bBnRa-RN_dV133u_) *Video
 - [Understanding ECG](https://youtu.be/RYZ4daFwMa8?si=9ygyxXoDJWyxlGKx) * Video
 - [See Movement of Blood in the Heart](https://youtu.be/BEWjOCVEN7M?si=R7UBVXOU--iasJ6D) *Video
+- [Cardiac Action Potential](https://youtu.be/v7Q9BrNfIpQ?si=DVVSqflLKzeoH3mo)*Video
 
 #### Anatomy & Physiology Study: EXCRETORY
 - [SciOly Anatomy: Excretory System](https://scioly.org/wiki/index.php/Anatomy/Excretory_System)
