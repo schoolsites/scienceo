@@ -1,12 +1,17 @@
 ## ATECH - Science Olympiad (Division C) - High School Division
 
 
-#### Anatomy & Physiology Study
+#### Anatomy & Physiology Study: CARDIOLOGY
 - [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)
   *** <i>Heart, Lymphatic, Urinary</i>
 - [SciOly Anatomy: Cardiovascular System](https://scioly.org/wiki/index.php/Anatomy/Cardiovascular_System)
 - [Body Smart Circulatory System](https://www.getbodysmart.com/circulatory-system/)
 - [High Yield Science O 2019 Cardiovascular Slide Show](https://slideplayer.com/slide/4767275/)
+- [Allia Medical Media: The Cardiac Cycle, Animation](https://youtu.be/IS9TD9fHFv0?si=bBnRa-RN_dV133u_) *Video
+- [Understanding ECG](https://youtu.be/RYZ4daFwMa8?si=9ygyxXoDJWyxlGKx) * Video
+- [See Movement of Blood in the Heart](https://youtu.be/BEWjOCVEN7M?si=R7UBVXOU--iasJ6D) *Video
+
+#### Anatomy & Physiology Study: EXCRETORY
 - [SciOly Anatomy: Excretory System](https://scioly.org/wiki/index.php/Anatomy/Excretory_System)
 - [Body Smart Excretory System](https://www.getbodysmart.com/urinary-system/)
 - [2019 Excretory System Science O Handout](https://www.soinc.org/sites/default/files/uploaded_files/5_19_EXCRETORY_SYSTEM.pdf)
