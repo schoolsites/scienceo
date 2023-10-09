@@ -4,9 +4,9 @@
 #### Anatomy & Physiology Study: CARDIOLOGY
 - [Anatomy Drills and Practice](https://bcs.wiley.com/he-bcs/Books?action=mininav&bcsId=6205&itemId=0470565101&assetId=240907&resourceId=23657&newwindow=true)
   *** <i>Heart, Lymphatic, Urinary</i>
-- [SciOly Anatomy: Cardiovascular System](https://scioly.org/wiki/index.php/Anatomy/Cardiovascular_System)
-- [Body Smart Circulatory System](https://www.getbodysmart.com/circulatory-system/)
-- [High Yield Science O 2019 Cardiovascular Slide Show](https://slideplayer.com/slide/4767275/)
+- [SciOly Anatomy: Cardiovascular System](https://scioly.org/wiki/index.php/Anatomy/Cardiovascular_System): Basic study sheet
+- [Body Smart Circulatory System](https://www.getbodysmart.com/circulatory-system/): interactive graphics
+- [High Yield Science O 2019 Cardiovascular Slide Show](https://slideplayer.com/slide/4767275/): slide show
 - [Allia Medical Media: The Cardiac Cycle, Animation](https://youtu.be/IS9TD9fHFv0?si=bBnRa-RN_dV133u_) *Video
 - [Understanding ECG](https://youtu.be/RYZ4daFwMa8?si=9ygyxXoDJWyxlGKx) * Video
 - [See Movement of Blood in the Heart](https://youtu.be/BEWjOCVEN7M?si=R7UBVXOU--iasJ6D) *Video
@@ -19,6 +19,8 @@
 #### Practice Tests for Cardiology, Excretory, and Lymphatic Systems
 - [ ] [MIT Archive, Do 2018](https://scioly.mit.edu/archives.html)
 - [ ] [Princeton Archive, Do 2019](https://scioly.princeton.edu/past-tests)
+- [ ] [Blank]
+- [ ] [Blank]
 #### Disease Detectives
 - [Science O Disease Detectives](https://www.soinc.org/disease-detectives-c)
 - [SciOLY Disease Detectives Bullet Points](https://scioly.org/wiki/index.php/Disease_Detectives)
